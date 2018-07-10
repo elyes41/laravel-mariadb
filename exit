@@ -1,0 +1,206 @@
+[33mcommit 79797e9bbfc32a4256d2146b7c721652068435c0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sammouda elyes <elyes41@gmail.com>
+Date:   Tue Jul 10 02:41:30 2018 +0200
+
+    return
+
+[33mcommit 4e9f28a52ae6e5b382a999fe95c803114065a60a[m[33m ([m[1;33mtag: 1.0.14[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Tue Feb 27 21:59:51 2018 +0200
+
+    added licence version
+
+[33mcommit e4cbc84b88da0fb7ba1489af4c8f2c41cfa15951[m[33m ([m[1;33mtag: 1.0.13[m[33m)[m
+Merge: 90d4148 ee4528f
+Author: Ingmar <ingmar@aasoja.ee>
+Date:   Tue Feb 27 21:46:26 2018 +0200
+
+    Merge pull request #3 from MyGooder/laravel-5.6-compat
+    
+    Fix service provider to work with Laravel 5.6
+
+[33mcommit ee4528f74ab2ed3c23fb475ebaecd714df8add1d[m
+Author: Michel Tomas <michel@mygooder.com>
+Date:   Mon Feb 26 16:15:18 2018 +0100
+
+    Fix wrong deps in composer.json
+
+[33mcommit 0354f4326544f1e87899d6d3039b7fe8743531b3[m
+Author: Michel Tomas <michel@mygooder.com>
+Date:   Mon Feb 26 14:37:47 2018 +0100
+
+    Fix service provider to work with Laravel 5.6
+
+[33mcommit 90d41489500c30506254ea8212a88425f79c0890[m[33m ([m[1;33mtag: 1.0.12[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Sat Sep 23 13:36:17 2017 +0300
+
+    fixed composer.json
+
+[33mcommit 742c99248e2e61566b0ea71ecd8badbb00df77da[m[33m ([m[1;33mtag: 1.0.11[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Sat Sep 23 13:03:05 2017 +0300
+
+    added package autodiscover for laravel 5.5 and fixed README
+
+[33mcommit 5eca9f46c2d8d21e40eb0543d8b8386d6fb07e2e[m
+Author: Ingmar <ingmar@aasoja.ee>
+Date:   Thu Sep 21 21:15:20 2017 +0300
+
+    better docs
+
+[33mcommit e215e89d3469b2ae894d5deda64c62255c4e47e6[m
+Author: Ingmar <ingmar@aasoja.ee>
+Date:   Thu Sep 21 21:03:10 2017 +0300
+
+    Added update example
+
+[33mcommit 5b920c262e336cca22f38b39c12eb6e9e285f180[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Mon Aug 21 12:29:58 2017 +0300
+
+    updated docs about MariaDB 10.2.8
+
+[33mcommit 2cb9674fb0dac5eeeae63bec269b66fce78484c9[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Mon Aug 21 12:27:54 2017 +0300
+
+    updated docs about MariaDB 10.2.8
+
+[33mcommit 495f51f1ffcdd3caa8d1472f5808aeeb097ff968[m[33m ([m[1;33mtag: 1.0.10[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Fri Aug 18 21:13:59 2017 +0300
+
+    added missing use
+
+[33mcommit 2f7e20bcc76deee43b77987454fd56fa87d49cb4[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Fri Aug 18 12:41:08 2017 +0300
+
+    added information about MariadDB bug
+
+[33mcommit 9f316f166b106c7d9fcf80b00684979006ff29a4[m[33m ([m[1;33mtag: 1.0.9[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Fri Aug 18 12:21:30 2017 +0300
+
+    added some infot about MySQL & MariaDB
+
+[33mcommit 898f9d222b3c4ccacc050603d26c41be0c39f79d[m[33m ([m[1;33mtag: 1.0.8[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Fri Aug 18 11:58:18 2017 +0300
+
+    use JSON_EXTRACT
+
+[33mcommit 60658b01eee88bed6aedd6aa948a21f7da768c81[m[33m ([m[1;33mtag: 1.0.7[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Fri Aug 18 11:39:38 2017 +0300
+
+    added JSON_EXTACT() support
+
+[33mcommit 408dbc5b09598a30a618b42fef1ad9a88a1c401f[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Fri Aug 18 11:38:15 2017 +0300
+
+    added JSON_EXTACT() support
+
+[33mcommit c6a760cb8379ef951bedc182c0d4c1d1c757cd6d[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Fri Aug 18 10:09:46 2017 +0300
+
+    changed dependency version
+
+[33mcommit 33c9703d1ac961de0b9446a4e375f40674d2e596[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 23:11:53 2017 +0300
+
+    updated README
+
+[33mcommit ea919a3686bf51550b146d414beb23648b204ee1[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 23:11:25 2017 +0300
+
+    updated README
+
+[33mcommit 521fd1f4ebe0ecd37780bc28cf216706461d590f[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 23:10:42 2017 +0300
+
+    updated README
+
+[33mcommit 0a1a49f6775e4c843eac67eaa6b9577558c07386[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 23:09:16 2017 +0300
+
+    updated README
+
+[33mcommit cdd3af949404d4eefeac6ff41418987bc610c5fd[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 22:40:49 2017 +0300
+
+    style fix
+
+[33mcommit 0d3987161b94e8c41286a623a9df11a040a34d51[m[33m ([m[1;33mtag: 1.0.6[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 22:34:25 2017 +0300
+
+    restored deps
+
+[33mcommit c6b96967285c9255d717b531c863a8c89d79f49a[m[33m ([m[1;33mtag: 1.0.5[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 22:32:58 2017 +0300
+
+    removed deps :)
+
+[33mcommit b0e546050f8ab7a2c7e52cc38dbe064ebc535201[m[33m ([m[1;33mtag: 1.0.4[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 22:30:52 2017 +0300
+
+    restored deps
+
+[33mcommit df8107362efd7ca2ed1efdc3d64688e122a3021c[m[33m ([m[1;33mtag: 1.0.3[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 22:28:25 2017 +0300
+
+    removed deps
+
+[33mcommit c46d21f794bc9a41cec3a4acb7b8fa60782ee470[m[33m ([m[1;33mtag: 1.0.2[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 22:25:58 2017 +0300
+
+    added JSON_VALID() checks for migration
+
+[33mcommit bb1c3c4c38a6233b2390c81a81bf1e3b14deeadb[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 22:24:23 2017 +0300
+
+    added JSON_VALID() checks for migration
+
+[33mcommit 5bf892d525cdfe726439325721519fc63872b4a8[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 18:07:53 2017 +0300
+
+    fix style
+
+[33mcommit ba8ece64c67d4d7fa557a1e1ffbdea97dba67463[m[33m ([m[1;33mtag: 1.0.1[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 17:57:58 2017 +0300
+
+    added some keywords
+
+[33mcommit af0c58306cb9de230f5bb0b23f131d27086e0aab[m[33m ([m[1;33mtag: 1.0.0[m[33m)[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 17:53:00 2017 +0300
+
+    added illuminate/database dependency
+
+[33mcommit d0a3d7616ca9170ad217f52df69aeb6c3f41b4d7[m
+Author: Ingmar Aasoja <ingmar@aasoja.ee>
+Date:   Thu Aug 17 17:45:34 2017 +0300
+
+    initial commit
+
+[33mcommit 9069ab5845ffa3552d3b0d07ce1f8ff5fe7d487f[m
+Author: Ingmar <ingmar@aasoja.ee>
+Date:   Thu Aug 17 15:44:46 2017 +0300
+
+    Initial commit

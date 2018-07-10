@@ -2,8 +2,6 @@
 
 namespace YbrNX\MariaDB;
 
-use Illuminate\Database\Events\QueryExecuted;
-
 class Connection extends \Illuminate\Database\MySqlConnection
 {
 
@@ -14,6 +12,6 @@ class Connection extends \Illuminate\Database\MySqlConnection
 
     protected function getDefaultQueryGrammar()
     {
-        return new QueryExecuted();
+        return new QueryGrammar;
     }
 }
